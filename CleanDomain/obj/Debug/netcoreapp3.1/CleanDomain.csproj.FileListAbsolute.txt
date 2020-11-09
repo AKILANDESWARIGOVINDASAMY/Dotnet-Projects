@@ -1,0 +1,9 @@
+C:\Users\Akila\source\repos\CleanDomain\bin\Debug\netcoreapp3.1\CleanDomain.deps.json
+C:\Users\Akila\source\repos\CleanDomain\bin\Debug\netcoreapp3.1\CleanDomain.dll
+C:\Users\Akila\source\repos\CleanDomain\bin\Debug\netcoreapp3.1\CleanDomain.pdb
+C:\Users\Akila\source\repos\CleanDomain\obj\Debug\netcoreapp3.1\CleanDomain.csprojAssemblyReference.cache
+C:\Users\Akila\source\repos\CleanDomain\obj\Debug\netcoreapp3.1\CleanDomain.AssemblyInfoInputs.cache
+C:\Users\Akila\source\repos\CleanDomain\obj\Debug\netcoreapp3.1\CleanDomain.AssemblyInfo.cs
+C:\Users\Akila\source\repos\CleanDomain\obj\Debug\netcoreapp3.1\CleanDomain.csproj.CoreCompileInputs.cache
+C:\Users\Akila\source\repos\CleanDomain\obj\Debug\netcoreapp3.1\CleanDomain.dll
+C:\Users\Akila\source\repos\CleanDomain\obj\Debug\netcoreapp3.1\CleanDomain.pdb

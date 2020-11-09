@@ -1,0 +1,20 @@
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\WebapiLinkedin practice.exe
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\WebapiLinkedin practice.deps.json
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\WebapiLinkedin practice.runtimeconfig.json
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\WebapiLinkedin practice.runtimeconfig.dev.json
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\WebapiLinkedin practice.dll
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\bin\Debug\netcoreapp3.1\WebapiLinkedin practice.pdb
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.csprojAssemblyReference.cache
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.AssemblyInfoInputs.cache
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.AssemblyInfo.cs
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.csproj.CoreCompileInputs.cache
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.RazorTargetAssemblyInfo.cache
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\staticwebassets\WebapiLinkedin practice.StaticWebAssets.Manifest.cache
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\staticwebassets\WebapiLinkedin practice.StaticWebAssets.xml
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.dll
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.pdb
+C:\Users\Akila\source\repos\Practice\WebapiLinkedin practice\obj\Debug\netcoreapp3.1\WebapiLinkedin practice.genruntimeconfig.cache

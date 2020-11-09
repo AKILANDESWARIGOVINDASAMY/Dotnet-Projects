@@ -1,0 +1,14 @@
+﻿@RenderBody()
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <p>Copyright pages @DateTime.Now.Year</p>
+    <ul>
+        <li>@Html.ActionLink("Read", "Control", "Blog")</li>
+        <li><a href="/Blog" title=" Read ur blog">Read ur Blog</a></li>
+    </ul>
+</div>
+ 
+
+@RenderSection("header", false)

@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewBag.Title = "mytableview";
+    var print = ViewBag.Values;
+}
+
+<h2>mytableview</h2>
+@{
+    foreach (var item in print)
+    { 
+    
+    <h3>@item.Name</h3>
+    <h3>@item.Age</h3>
+    
+    }
+}
+
